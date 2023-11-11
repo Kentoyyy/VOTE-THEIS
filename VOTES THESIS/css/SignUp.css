@@ -48,9 +48,12 @@ body {
     margin-top: 100px;
 }
 .input {
+    
     height: 40px;
     width: 200px;
+    
     border: none;
+    position: absolute;
     box-shadow: 3px 3px rgb(163, 163, 163);
     font-weight: 600;
     box-shadow: #555555;
@@ -64,14 +67,14 @@ body {
   
   .inputlastname {
     height: 40px;
-    width: 200px;
+    width: 220px;
     border: none;
     position: absolute;
-    margin-top: 10px;
+  
     font-weight: 600;
     margin-left: 250px;
     box-shadow: 3px 3px rgb(163, 163, 163);
-    margin-top: -42px;
+    margin-top: 0px;
     box-shadow: #555555;
     outline: none;
     border-radius: 10px;
@@ -87,10 +90,10 @@ body {
     width: 200px;
     border: none;
     position: absolute;
-    margin-top: 10px;
+    
     font-weight: 600;
-    margin-left: 500px;
-    margin-top: -42px;
+    margin-left: 520px;
+    margin-top: 0px;
     box-shadow: 3px 3px rgb(163, 163, 163);
     box-shadow: #555555;
     outline: none;
